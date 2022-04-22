@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dKNfi03XD1emldtgRoym/1qLZJao450uZrrcVh4IZBF7Ef6YwWMlwJ2hmQlpQbBppJxq4D6tl0aRSHz08zvbog==",
+  "dgSpecHash": "SikJVo2DNDyuZMRepxiya7eVT3Lbx425yMVvL6VFEHEAEaS3tuFjeyVClFEOwcoPYdCPIO+EGPO46f0hGoJMfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\midas\\CommanderGQL\\CommanderGQL.csproj",
+  "projectFilePath": "C:\\Users\\midas\\Desktop\\TestRepo\\CommanderGQL\\CommanderGQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\midas\\.nuget\\packages\\graphql.server.ui.voyager\\5.2.1\\graphql.server.ui.voyager.5.2.1.nupkg.sha512",
     "C:\\Users\\midas\\.nuget\\packages\\greendonut\\12.7.0\\greendonut.12.7.0.nupkg.sha512",
@@ -124,7 +124,8 @@
     "C:\\Users\\midas\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\midas\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\midas\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\midas\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\midas\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\midas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],
   "logs": []
 }
